@@ -9,8 +9,7 @@
 PostReady transforms long articles, podcasts, technical documentation, and developer notes into platform-native social content: punchy **X threads**, authoritative **LinkedIn posts**, and **newsletter drafts** without robotic slop.
 
 ---
-
-## 🛠️ Open-Source Developer Tools & Datasets
+## Open-Source Developer Tools & Datasets
 
 We build lightweight, zero-dependency tools to automate technical distribution:
 
@@ -33,19 +32,17 @@ npx awesome-tech-hooks --random
 ```
 
 ---
-
-## 🌐 Free Web Tools
+## Free Web Tools
 
 Explore our free interactive tools on [PostReady.org](https://postready.org):
 
-- 🎯 **[AI Hook Generator](https://postready.org/en/tools/hook-generator)** — Generate algorithm-friendly hooks for tech posts.
-- 🔄 **[Tweet to LinkedIn Converter](https://postready.org/en/tools/tweet-to-linkedin)** — Convert punchy tweets into professional LinkedIn format.
-- ✂️ **[Thread Splitter Web UI](https://postready.org/en/tools/thread-splitter)** — Visually split and edit threads in browser.
-- ✍️ **[LinkedIn Text Formatter](https://postready.org/en/tools/linkedin-text-formatter)** — Format bold, italic, and monospace text for social posts.
+- **[AI Hook Generator](https://postready.org/en/tools/hook-generator)** — Generate algorithm-friendly hooks for tech posts.
+- **[Tweet to LinkedIn Converter](https://postready.org/en/tools/tweet-to-linkedin)** — Convert punchy tweets into professional LinkedIn format.
+- **[Thread Splitter Web UI](https://postready.org/en/tools/thread-splitter)** — Visually split and edit threads in browser.
+- **[LinkedIn Text Formatter](https://postready.org/en/tools/linkedin-text-formatter)** — Format bold, italic, and monospace text for social posts.
 
 ---
-
-## 📬 Connect With Us
+## Connect With Us
 
 - **Web:** [https://postready.org](https://postready.org)
 - **X (Twitter):** [@postreadyorg](https://x.com/postreadyorg)
